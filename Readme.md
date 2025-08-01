@@ -7,3 +7,4 @@
 - khách hàng có thể xem chi tiết sản phẩm khi bấm vào món nhạc cụ
 - xuất lưu và xem chi tiết lịch sử hóa đơn
 - Tìm kiếm với từ khóa gần chính xác
+# Được viết với sự hỗ trợ của AI
